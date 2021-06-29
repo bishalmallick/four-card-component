@@ -1,0 +1,19 @@
+@media (max-width: 1100px) {
+    .card-section {
+        flex-direction: column;
+
+        .s {
+            margin: auto;
+        }
+        .c {
+            margin: auto;
+        }
+    }
+
+    body {
+        .container {
+            width: 100%;
+            min-height: 100vh;
+        }
+    }
+}
