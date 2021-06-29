@@ -24,8 +24,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [URL](https://github.com/bishalmallick/stats-preview-card)
-- Live Site URL: [URL](https://bishalmallick.github.io/stats-preview-card/)
+- Solution URL: [URL](https://github.com/bishalmallick/four-card-component)
+- Live Site URL: [URL](https://bishalmallick.github.io/four-card-component)
 
 ## My process
 
